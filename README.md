@@ -1,7 +1,7 @@
 # desafio-android-franklin-silva
 
 
-Instrunction for build it
+Building Instrunctions
 
 -- yarn
 -- react-native run-android
